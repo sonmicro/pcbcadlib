@@ -1,4 +1,4 @@
-# sonmicro_cadlib
+# pcbcadlib
 SonMicro Module PCB libraries(Eagle/AutoDesk), Sketchup drawings and 3D step models.
 
 For 2D mechanical drawing, layout and pinout diagram please refer to relevant device datasheet at www.sonmicro.com
